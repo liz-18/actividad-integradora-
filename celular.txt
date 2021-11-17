@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 estoy modificando archivo celular.txt
 Samsung Galaxy S20 Ultra - 9,1. El terminal franquicia del fabricante coreano no ha tardado en colocarse en lo más alto de nuestra competición por ser el mejor teléfono del año 2020.
+=======
+estoy modificando archivo celular.txt  La telefonía móvil o telefonía celular es un medio de comunicación inalámbrico a 
+través de ondas electromagnéticas. Como cliente de este tipo de redes, se utiliza un dispositivo  denominado «teléfono móvil», 
+
+>>>>>>> 4b81dcb21d99173671e01bc58f2ff76fdf9c29b0
